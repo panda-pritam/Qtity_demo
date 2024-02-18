@@ -19,3 +19,6 @@
   font-size: 18px;
   letter-spacing: 0.25px;
 }
+.feedback_button:hover {
+  cursor: pointer;
+}
