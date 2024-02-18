@@ -6,7 +6,7 @@
   height: 74px;
   padding: 0px 32px;
 }
-.feedback_button {
+.feedbackButton {
   height: 47px;
   width: 170px;
   border: 1px solid #34c94b;
@@ -19,6 +19,6 @@
   font-size: 18px;
   letter-spacing: 0.25px;
 }
-.feedback_button:hover {
+.feedbackButton:hover {
   cursor: pointer;
 }

@@ -7,7 +7,7 @@ export default function NavBar() {
     <nav className={styles.Navbar}>
       <Logo />
       <SearchBox />
-      <button className={styles.feedback_button}>Give feedback</button>
+      <button className={styles.feedbackButton}>Give Feedback</button>
     </nav>
   );
 }
