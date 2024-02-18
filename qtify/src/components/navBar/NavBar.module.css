@@ -1,4 +1,4 @@
-.navbarContainer {
+.Navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -7,14 +7,17 @@
   padding: 0px 32px;
 }
 .feedback_button {
-  margin: 14px;
+  height: 47px;
+  width: 170px;
   border: 1px solid #34c94b;
   background-color: #121212;
   color: #34c94b;
   border-radius: 12px;
-  padding: 10px 16px;
-
+  text-align: center;
+  font-weight: 600;
   font-family: "Poppins";
+  font-size: 18px;
+  letter-spacing: 0.25px;
 }
 .feedback_button:hover {
   cursor: pointer;
